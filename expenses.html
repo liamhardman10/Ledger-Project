@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense Entry</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="banner">
+        <div class="navbar">
+            <a href="https://www.linkedin.com/in/liamhardman0/">
+            <img src="images/mylogo.png" class="logo"></a>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="expenses.html">Input an Expense -</a></li>
+                <li><a href="profits.html">Input a Profit +</a></li>
+                <li><a href="chart.html">Lifetime Chart $</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class = "wrapper">
+        <div class="expense-insert"> 
+            <h2>Expense Information</h2>
+                <form action="#">
+                    <div class="input-box">
+                        <span class = "icon"></span>
+                        <input id="expenseName" type="amount" required>
+                        <label>Expense Name</label>
+                    </div>
+                    <div class="input-box">
+                        <span class = "icon"></span>
+                        <input id="expenseAmt" type="amount" required>
+                        <label>Expense Amount ($)</label>
+                    </div>
+                    <div class="date-box">
+                        <span class = "icon"></span>
+                        <input type="date" required>
+                    </div>
+                    <button type="submit" class="expense-btn">Submit</button>
+                </form>
+        </div>
+    </div>  
+    <script src="main.js"></script>
+</body>
+</html>
