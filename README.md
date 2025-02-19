@@ -1,5 +1,6 @@
 # Ledger Project
 This repository contains HTML, CSS & JavaScript files.
+[Visit the site here!](https://github.io/liamhardman10/Ledger-Project)
 
 # Description
 I created this webpage because one of my college teammates was recording his profits/losses from bowling on a google sheet. 
