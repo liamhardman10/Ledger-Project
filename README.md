@@ -12,4 +12,4 @@ There are 4 different pages the user can visit, including the homepage.
 
 **Profits:** This page allows the user to record the name of the profit, the amount of the profit, and the date.
 
-<ins>***WIP***</ins> **Lifetime Chart:** This page will allow the user to see their full transaction log.
+<ins>***(WIP)***</ins> **Lifetime Chart:** This page will allow the user to see their full transaction log.
