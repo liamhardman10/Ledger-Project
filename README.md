@@ -9,5 +9,7 @@ I thought it would be cool to make my own iteration of that and created this led
 There are 4 different pages the user can visit, including the homepage.
 
 **Expenses:** This page allows the user to record the name of the expense, the amount of the expense, and the date.
+
 **Profits:** This page allows the user to record the name of the profit, the amount of the profit, and the date.
+
 ***WIP*** **Lifetime Chart** This page will allow the user to see their full transaction log.
